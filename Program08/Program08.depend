@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1438934649 source:/home/authentic/Desktop/Assignment/cprogramming/Program08/main.c
+	<stdio.h>
+	<string.h>
+
